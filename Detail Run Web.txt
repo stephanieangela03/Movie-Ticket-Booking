@@ -1,3 +1,5 @@
+Run with XAMPP
+
 **Access User Webpage**
 
 http://localhost/Movie Ticket Booking System/
