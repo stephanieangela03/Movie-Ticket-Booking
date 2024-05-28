@@ -1,10 +1,10 @@
 **Access User Webpage**
 
-http://localhost/OnlineMovieTicketBS-PHP/
+http://localhost/Movie Ticket Booking System/
 
-**Access Theatre adn Admin Webpage**
+**Access Theatre and Admin Webpage**
 
-http://localhost/OnlineMovieTicketBS-PHP/theatre/
+http://localhost/Movie Ticket Booking System/theatre
 
 
 **Admin Login Details**
@@ -15,11 +15,11 @@ Password: password
 
 **Theatre Login Details**
 
-Username: THR760801
-Password: PWD649976
+Username: THRPASKAL
+Password: paskal
 
 
 **User Login Details**
 
-Username: james@gmail.com
+Username: stephanie@gmail.com
 Password: password
