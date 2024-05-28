@@ -1,0 +1,25 @@
+**Access User Webpage**
+
+http://localhost/OnlineMovieTicketBS-PHP/
+
+**Access Theatre adn Admin Webpage**
+
+http://localhost/OnlineMovieTicketBS-PHP/theatre/
+
+
+**Admin Login Details**
+
+Username: admin
+Password: password
+
+
+**Theatre Login Details**
+
+Username: THR760801
+Password: PWD649976
+
+
+**User Login Details**
+
+Username: james@gmail.com
+Password: password
