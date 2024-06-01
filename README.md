@@ -24,20 +24,20 @@ Facilitate Web Technology Learning: Provide a project that can be used by studen
 
 ## Available Features
 
-### Client Side:
+### Client Side
 Customer Registration: Users can register as customers.
 Movie Information: View lists of upcoming movies, trailers, and currently showing movies.
 Booking: Book tickets for movie showings.
 Payment: Make payments for booked tickets.
 Booking History: View ticket booking history.
 
-### Admin Panel:
+### Admin Panel
 Movie Management: Manage the list of upcoming movies.
 Show Management: Schedule showtimes and screens.
 Cancellation and Restoration: Cancel and restore shows.
 Booking History: View customers' ticket booking history.
 
-### Theater Panel:
+### Theater Panel
 Film Arrangement: Organize the movies to be shown in the theater.
 Show Management: Manage the schedule and screening of movies.
 Screen and Showtime Scheduling: Set up the schedule and screening times of movies.
