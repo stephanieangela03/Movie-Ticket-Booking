@@ -1,4 +1,4 @@
-#Movie Ticket Booking
+# Movie Ticket Booking
 
 PHP and MySQL Website for booking ticket movies online
 
@@ -42,6 +42,20 @@ Film Arrangement: Organize the movies to be shown in the theater.
 Show Management: Manage the schedule and screening of movies.
 Screen and Showtime Scheduling: Set up the schedule and screening times of movies.
 Show Control: Start and stop movie screenings.
+
+# UI
+![image](https://github.com/user-attachments/assets/ec4d2ddc-1faa-461d-9489-4143f08e1a89)
+![image](https://github.com/user-attachments/assets/c949fd2f-bc33-47af-89c5-4ca747f3be69)
+![image](https://github.com/user-attachments/assets/1e827031-6728-4706-9c12-fe8eb654cbe0)
+![image](https://github.com/user-attachments/assets/df2bfc1b-11cb-46bc-9bd2-4306046e25e5)
+![image](https://github.com/user-attachments/assets/c9b73dfe-ed53-4c81-8a49-8ba363e90398)
+![image](https://github.com/user-attachments/assets/b2679e39-9828-4b35-b396-9ded6a391ac5)
+
+
+
+
+
+
 
 
 ## Conclusion
