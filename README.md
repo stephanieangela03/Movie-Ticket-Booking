@@ -42,7 +42,7 @@ You can deploy this application on an AWS EC2 instance by following the detailed
 5. Testing and verifying the public deployment.
 
 For detailed guidance, please refer to the paper.
-[View the Deployment Paper](https://drive.google.com/drive/folders/1oIefxNf5n30DCFbNUyFGxLvkvhyiUhuC?usp=sharing)
+[View the Deployment Paper](https://drive.google.com/file/d/1KDTcENWy3Ju_4yDQDsTA5xCkOq9bgSe1/view?usp=drive_link)
 
 ### Requirements
 To deploy on AWS EC2, ensure the following:
